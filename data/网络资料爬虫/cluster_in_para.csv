@@ -1,0 +1,3 @@
+Cluster ID,confidence_score,index,subject,predicate,object,label
+0,0.8707614,0,特殊,研发单位与厂商,美国,特种坦克
+0,0.8707614,1,特殊,研发单位与厂商,Crye Precision公司,特种坦克

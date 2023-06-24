@@ -1,0 +1,5 @@
+{
+  "predicate":   ["empty", "empty","名称","产国","研发单位与厂商", "研发时间","投入使用时间","口径","炮管重量","炮管长度","最大射程","炮口初速","型号","全长","弹重","弹长","最大速度","翼展","制导系统","引信","宽度", "长度", "高度", "重量", "最大行程", "乘员与载员"],
+  "subject_type":["empty", "empty","empty","名称_entity","名称_entity" ,"名称_entity"    ,"名称_entity","名称_entity","名称_entity","名称_entity" ,"名称_entity","名称_entity","名称_entity","名称_entity","名称_entity","名称_entity","名称_entity","名称_entity","名称_entity","名称_entity","名称_entity","名称_entity","名称_entity","名称_entity","名称_entity","名称_entity"],
+  "object_type": ["empty", "empty","empty","产国_entity","研发单位与厂商","研发时间_entity","投入使用时间_entity","口径_entity","炮管重量_entity","炮管长度_entity","最大射程_entity","炮口初速_entity","型号_entity","全长_entity",",弹重_entity","弹长_entity","最大速度_entity","翼展_entity","制导系统_entity","引信_entity","宽度_entity", "长度_entity", "高度_entity", "重量_entity", "最大行程_entity", "乘员与载员_entity"]
+}
